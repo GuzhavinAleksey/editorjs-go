@@ -1,4 +1,4 @@
-module main
+module editorjs-go
 
 go 1.20
 
