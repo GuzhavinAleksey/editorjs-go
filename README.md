@@ -37,9 +37,9 @@ package main
 
 import (
   "fmt"
-  editorjs "github.com/micheleriva/editorjs-go"
-	"io/ioutil"
-	"log"
+  editorjs "github.com/GuzhavinAleksey/editorjs-go"
+  "io/ioutil"
+  "log"
 )
 
 func main() {
