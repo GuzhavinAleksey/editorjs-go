@@ -1,4 +1,4 @@
-package main
+package editorjsgo
 
 type Options struct {
 	Image ImageOptions
@@ -15,6 +15,6 @@ type ImageClasses struct {
 	WithBackground string
 }
 
-func main() {
+func editorjsgo() {
 
 }
