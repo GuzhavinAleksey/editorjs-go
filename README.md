@@ -5,7 +5,7 @@ A simple library which converts **[Editor.js](https://editorjs.io)** JSON output
 ## Installation
 
 ```bash
-go get github.com/micheleriva/editorjs-go
+go get github.com/GuzhavinAleksey/editorjs-go
 ```
 
 ## Usage
